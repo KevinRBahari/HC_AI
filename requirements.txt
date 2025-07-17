@@ -1,0 +1,16 @@
+# Python version 3.11.8
+
+# Core dependencies
+langchain>=0.3.0
+langchain-openai>=0.1.6
+langchain-core>=0.1.50
+langchain-community>=0.0.34
+langchain-ollama>=0.1.4
+
+# Environment and validation
+python-dotenv
+pydantic>=2.0
+
+# GUI
+gradio>=4.31.0
+
